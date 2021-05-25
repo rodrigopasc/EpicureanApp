@@ -4,7 +4,7 @@ Read and consume content about Epicurean things.
 
 ## Summary
 
-- [Briefing](#briefing)
+- [Brief](#brief)
 - [Preview](#preview)
   - [Light](#light)
   - [Dark](#dark)
@@ -14,7 +14,7 @@ Read and consume content about Epicurean things.
 - [Dependencies](#dependencies)
 - [Setup](#setup)
 
-## Briefing
+## Brief
 The ultimate goal is to be a blazing fast & beautiful iOS SwiftUI App-version for the Instagram [@oepicureo](https://instagram.com/oepicureo) profile.
 
 ## Preview
