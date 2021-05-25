@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Ravioli",
+    "subtitle": "Who doesn't love ravioli?",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_ravioli"
+  },
+  {
+    "id": 2,
+    "title": "Gnocchi",
+    "subtitle": "Gnocchi is a great comfort food!",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_gnocchi"
+  },
+  {
+    "id": 3,
+    "title": "Tagliatelle",
+    "subtitle": "Classic italian food.",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_tagliatelle"
+  },
+  {
+    "id": 4,
+    "title": "Macarons",
+    "subtitle": "French classic with style.",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_macarons"
+  },
+  {
+    "id": 5,
+    "title": "More Macarons",
+    "subtitle": "Another part for the french classic.",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_macarons_alternate"
+  },
+  {
+    "id": 6,
+    "title": "French tart",
+    "subtitle": "Lorem ipsum dolor amet",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_tart"
+  },
+  {
+    "id": 7,
+    "title": "Oysters",
+    "subtitle": "Japanesse food at its best.",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_oysters"
+  },
+  {
+    "id": 8,
+    "title": "Suits",
+    "subtitle": "Giorgio Armani designs.",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_suit"
+  },
+  {
+    "id": 9,
+    "title": "Gentleman",
+    "subtitle": "Classic gentleman style.",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_gentleman"
+  },
+  {
+    "id": 10,
+    "title": "Cheese table",
+    "subtitle": "Delicious italian cheese plate.",
+    "footnote": "Maecenas massa magna, condimentum ut.",
+    "image": "article_cheese_table"
+  }
+]

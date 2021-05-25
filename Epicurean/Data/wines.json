@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Formaggi",
+      "subtitle": "Who doesn't love cheese?",
+      "footnote": "Cheese plate is an perfect start for a dinner4",
+      "image": "wines_glass"
+    },
+    {
+      "id": 2,
+      "title": "Arancini",
+      "subtitle": "Fried risotto ball",
+      "footnote": "Delicious Sicilian street food3",
+      "image": "wines_grapes"
+    },
+    {
+      "id": 3,
+      "title": "Bruschetta",
+      "subtitle": "Simple and outstading",
+      "footnote": "Perfect start for an Italian night out2",
+      "image": "wines_farm"
+    },
+    {
+      "id": 4,
+      "title": "Pane",
+      "subtitle": "Only three ingredients",
+      "footnote": "Integer iaculis, mauris id porta",
+      "image": "wines_glasses"
+    }
+]

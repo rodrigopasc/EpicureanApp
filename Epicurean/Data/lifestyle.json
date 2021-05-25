@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Formaggi",
+    "subtitle": "Who doesn't love cheese?",
+    "footnote": "Sed at ante malesuada nisl",
+    "image": "lifestyle_suit"
+  },
+  {
+    "id": 2,
+    "title": "Arancini",
+    "subtitle": "Fried risotto ball",
+    "footnote": "Quisque volutpat elementum ullamcorper",
+    "image": "lifestyle_cigars"
+  },
+  {
+    "id": 3,
+    "title": "Bruschetta",
+    "subtitle": "Simple and outstading",
+    "footnote": "Curabitur vel urna nec nibh",
+    "image": "lifestyle_gentleman"
+  },
+  {
+    "id": 4,
+    "title": "Pane",
+    "subtitle": "Perfection with three ingredients",
+    "footnote": "Suspendisse lacinia et nulla eu",
+    "image": "lifestyle_cigar"
+  }
+]
