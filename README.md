@@ -1,7 +1,6 @@
 # Epicurean
 Read and consume content about Epicurean things.
-> This is the App for the Instagram profile @oepicureo.
-<hr />
+> This is the App for the Instagram profile [@oepicureo](https://instagram.com/oepicureo).
 
 <h1 align="center">🤌</h1>
 
@@ -15,10 +14,10 @@ Read and consume content about Epicurean things.
   - [Light](#light)
   - [Dark](#dark)
 - [Dependencies](#dependencies)
-- [Setuo](#setup)
+- [Setup](#setup)
 
 ## Briefing
-The ultimate goal is to be a blazing fast & beautiful iOS SwiftUI App-version for the Instagram ![@oepicureo](https://instagram.com/oepicureo) profile.
+The ultimate goal is to be a blazing fast & beautiful iOS SwiftUI App-version for the Instagram [@oepicureo](https://instagram.com/oepicureo) profile.
 
 ## Preview
 
