@@ -2,7 +2,7 @@
 Read and consume content about Epicurean things.
 > This is the App for the Instagram profile [@oepicureo](https://instagram.com/oepicureo).
 
-<hr />
+<br />
 
 ## Summary
 
