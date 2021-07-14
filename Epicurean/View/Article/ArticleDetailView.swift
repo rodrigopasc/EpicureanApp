@@ -28,11 +28,9 @@ struct ArticleDetailView: View {
         ScrollView(.vertical) {
             VStack(alignment: .leading) {
                 ZStack(alignment: Alignment(horizontal: .trailing, vertical: .top)) {
-                    Image(detail.selectedItem.image)
-                        .resizable()
+                    RemoteImage(url: detail.selectedItem.image)
                         .scaledToFit()
                         .aspectRatio(contentMode: .fill)
-//                        .matchedGeometryEffect(id: detail.selectedItem.image, in: animation)
                         .frame(width: UIScreen.main.bounds.width)
                         .onTapGesture {
                             withAnimation(.interactiveSpring(response: 0.75, dampingFraction: 0.725, blendDuration: 0.9)) {
@@ -44,20 +42,17 @@ struct ArticleDetailView: View {
                         Text(detail.selectedItem.title.uppercased())
                             .fontWeight(.semibold)
                             .shadow(color: Color.primary.opacity(0.3), radius: 5)
-//                            .matchedGeometryEffect(id: detail.selectedItem.title + detail.selectedItem.footnote, in: animation)
                         
                         Text(detail.selectedItem.subtitle)
                             .font(.title)
                             .fontWeight(.bold)
                             .shadow(color: Color.primary.opacity(0.3), radius: 5)
-//                            .matchedGeometryEffect(id: detail.selectedItem.subtitle + detail.selectedItem.footnote, in: animation)
 
                         Spacer()
 
                         Text(detail.selectedItem.footnote)
                             .font(.footnote)
                             .shadow(color: Color.primary.opacity(0.3), radius: 5)
-//                            .matchedGeometryEffect(id: detail.selectedItem.footnote + detail.selectedItem.title, in: animation)
                     }
                     .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
                     .foregroundColor(.white)

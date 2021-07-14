@@ -27,8 +27,7 @@ struct ArticleDetailedCardView: View {
     // MARK: - Body
     var body: some View {
         ZStack(alignment: .bottom) {
-            Image(article.image)
-                .resizable()
+            RemoteImage(url: article.image)
                 .scaledToFit()
                 .aspectRatio(contentMode: .fill)
                 .frame(width: size - 75, height: size, alignment: .center)

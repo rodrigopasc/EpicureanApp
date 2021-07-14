@@ -20,31 +20,26 @@ struct ArticleCardView: View {
     var body: some View {
         VStack {
             ZStack {
-                Image(article.image)
-                    .resizable()
-                    .scaledToFill()
+                RemoteImage(url: article.image)
+                    .scaledToFit()
                     .frame(maxHeight: size)
-//                    .matchedGeometryEffect(id: article.image, in: animation)
                 LinearGradient(gradient: Gradient(colors: [.clear, Color.black.opacity(0.2)]), startPoint: .top, endPoint: .bottom)
                 
                 VStack(alignment: .leading) {
                     Text(article.title.uppercased())
                         .fontWeight(.semibold)
                         .shadow(color: Color.primary.opacity(0.3), radius: 5)
-//                        .matchedGeometryEffect(id: article.title + article.footnote, in: animation)
                     
                     Text(article.subtitle)
                         .font(.title)
                         .fontWeight(.bold)
                         .shadow(color: Color.primary.opacity(0.3), radius: 5)
-//                        .matchedGeometryEffect(id: article.subtitle + article.footnote, in: animation)
 
                     Spacer()
 
                     Text(article.footnote)
                         .font(.footnote)
                         .shadow(color: Color.primary.opacity(0.3), radius: 5)
-//                        .matchedGeometryEffect(id: article.footnote + article.title, in: animation)
                 }
                 .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
                 .foregroundColor(.white)
