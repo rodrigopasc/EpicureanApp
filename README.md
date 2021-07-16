@@ -17,26 +17,6 @@ Read and consume content about Epicurean things.
 ## Brief
 The ultimate goal is to be a blazing fast & beautiful iOS SwiftUI App-version for the Instagram [@oepicureo](https://instagram.com/oepicureo) profile.
 
-## Preview
-
-### Light
-
-<p align="center">
-  <img width="24%" alt="Today Light Preview" src="https://user-images.githubusercontent.com/39017783/119549994-351bd200-bd6e-11eb-9f63-ef147d47d545.mov" />
-  <img width="24%" alt="Topcharts Light Preview" src="https://user-images.githubusercontent.com/39017783/119550715-1d911900-bd6f-11eb-8f9d-5c6cca6ffbac.mov" />
-  <img width="24%" alt="Articles Light Preview" src="https://user-images.githubusercontent.com/39017783/119551312-e1aa8380-bd6f-11eb-9e6f-1ba56c81792b.mov" />
-  <img width="24%" alt="Settings Light Preview" src="https://user-images.githubusercontent.com/39017783/119551400-fdae2500-bd6f-11eb-8a84-ad181d0f2443.mov" />
-</p>
-
-### Dark
-
-<p align="center">
-  <img width="24%" alt="Today Dark Preview" src="https://user-images.githubusercontent.com/39017783/119550418-c5f2ad80-bd6e-11eb-861f-0b510b205568.mov" />
-  <img width="24%" alt="Topcharts Dark Preview" src="https://user-images.githubusercontent.com/39017783/119550921-63e67800-bd6f-11eb-90b4-0fc13db61f36.mov" />
-  <img width="24%" alt="Articles Dark Preview" src="https://user-images.githubusercontent.com/39017783/119551363-f0913600-bd6f-11eb-9cf5-4d9a1a45e246.mov" />
-  <img width="24%" alt="Settings Dark Preview" src="https://user-images.githubusercontent.com/39017783/119551457-0dc60480-bd70-11eb-91b7-6a384686b0d2.mov" />
-</p>
-
 ## Screenshots
 
 ### Light
